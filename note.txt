@@ -1,2 +1,1 @@
 Hello
-Glad to be using git
